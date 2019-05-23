@@ -1,0 +1,1 @@
+UPDATE DEPT SET dname ='REASEARCH' WHERE deptno = 20;
